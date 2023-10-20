@@ -41,7 +41,7 @@ Dataset Folder Orgonization: It should have the same folder structure for better
         │               ├── Firstline: /
         │               │   └── metadata (document id, type, content,etc) seprated by tab
         │               └── documents are separated by double newline (\ln\n)
-        └── Annotations/
+        └── Finetunning/
             ├── NER
             ├── Sentiment/Relation
             ├── Question/Answer
@@ -63,7 +63,7 @@ Dataset Folder Orgonization: It should have the same folder structure for better
         │               ├── Firstline: /
         │               │   └── metadata (document id, type, content,etc) seprated by tab
         │               └── documents are separated by double newline (\ln\n)
-        └── Annotations/
+        └── Finetunning/
             ├── NER
             ├── Sentiment/Relation
             ├── Question/Answer
